@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "43678997_35b35529",
+        "filename": "hello.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1015174
+      },
+      "writtenOn": "2019-10-01T07:48:22Z",
+      "side": 1,
+      "message": "This function needs to be commented",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 12
+      },
+      "revId": "fc7d6e1e7c69af9276a7b137f10ad6271e020e38",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
